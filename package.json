@@ -1,0 +1,15 @@
+{
+  "name": "simon-game-challenge-completed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dinesh saii",
+  "license": "ISC",
+  "dependencies": {
+    "jquerry": "^0.0.1-security",
+    "jquery": "^3.7.0"
+  }
+}
